@@ -1,0 +1,12 @@
+2020-07-20 11:45:55 {TestScripts} (main:) abc
+2020-07-20 11:46:56 {Payment} (main:) test case passed 
+2020-07-20 12:08:22 {BaseClass} (main:) Base URL opened
+2020-07-20 12:08:51 {TestScripts} (main:) details Filled and moved to payment page
+2020-07-20 12:09:04 {TestScripts} (main:) not able to Fill payment details
+2020-07-20 12:09:04 {TestScripts} (main:) Payment Failed by user
+2020-07-20 15:39:21 {BaseClass} (main:) Base URL opened
+2020-07-20 15:39:51 {TestScripts} (main:) details Filled and moved to payment page
+2020-07-20 15:40:13 {TestScripts} (main:) payment details filled
+2020-07-20 15:40:21 {TestScripts} (main:) Payment Done
+2020-07-20 15:40:57 {Payment} (main:) test case passed 
+2020-07-20 15:40:57 {TestScripts} (main:) Payment results captured

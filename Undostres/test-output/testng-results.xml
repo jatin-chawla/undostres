@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="287476" started-at="2020-07-21T06:49:04Z" finished-at="2020-07-21T06:53:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="287476" started-at="2020-07-21T06:49:04Z" finished-at="2020-07-21T06:53:52Z">
+      <class name="undostres.testing.testscripts.TestScripts">
+        <test-method status="PASS" signature="setConnection()[pri:0, instance:undostres.testing.testscripts.TestScripts@14acaea5]" name="setConnection" is-config="true" duration-ms="104235" started-at="2020-07-21T12:19:04Z" finished-at="2020-07-21T12:20:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setConnection -->
+        <test-method status="PASS" signature="first()[pri:0, instance:undostres.testing.testscripts.TestScripts@14acaea5]" name="first" duration-ms="183011" started-at="2020-07-21T12:20:49Z" finished-at="2020-07-21T12:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="end()[pri:0, instance:undostres.testing.testscripts.TestScripts@14acaea5]" name="end" is-config="true" duration-ms="215" started-at="2020-07-21T12:23:52Z" finished-at="2020-07-21T12:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- undostres.testing.testscripts.TestScripts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
