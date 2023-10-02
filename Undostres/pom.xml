@@ -36,8 +36,8 @@
 <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
-    <version>6.9.9</version>
-    <scope></scope>
+    <version>6.10</version>
+    <scope/>
 </dependency>
 
 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
